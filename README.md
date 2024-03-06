@@ -19,7 +19,7 @@ we want to checkout is to use the sys library to check whether we have the corre
 
 <img width="458" alt="image" src="https://github.com/juikalan21/vulnscanner/assets/159107774/bd79432e-38c5-4ca4-8eea-7b0c324dd3d3">
 
-6. i have specified range (1,130) since my ip address of the  windows machine end in 1 and metasploitable in 129. If you want to scan th entire local network just type 1 to 255, since that is the maximum number of hosts available on a local network.
+6. i have specified range (126,130) since my ip address of the  windows machine end in 126 and metasploitable in 129. If you want to scan th entire local network just type 1 to 255, since that is the maximum number of hosts available on a local network.
 
 7. now we will code the return banner function like we did earlier.
 
